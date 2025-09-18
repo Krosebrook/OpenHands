@@ -12,7 +12,7 @@
     "@microlink/react-json-view": "^1.26.2",
     "@monaco-editor/react": "^4.7.0-rc.0",
     "@react-router/node": "^7.8.0",
-    "@react-router/serve": "^7.8.0",
+    "@react-router/serve": "^7.8.2",
     "@react-types/shared": "^3.31.0",
     "@reduxjs/toolkit": "^2.8.2",
     "@stripe/react-stripe-js": "^3.9.0",
